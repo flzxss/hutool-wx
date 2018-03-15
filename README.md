@@ -34,7 +34,7 @@ icewx教程
    hutool-all-4.0.5.jar
    log4j-1.2.17.jar
     icewx-1.0.3.jar的下载地址为:
-    http://central.maven.org/maven2/com/icexxx/icewx/1.0.1/icewx-1.0.3.jar
+    http://central.maven.org/maven2/com/icexxx/icewx/1.0.3/icewx-1.0.3.jar
    如果是maven,只需要引入:
    <!-- https://mvnrepository.com/artifact/com.icexxx/icewx -->
 <dependency>
