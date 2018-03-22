@@ -14,7 +14,7 @@
         <dependency>
             <groupId>com.icexxx</groupId>
             <artifactId>icewx</artifactId>
-            <version>1.0.3</version>
+            <version>1.0.4</version>
         </dependency>
         <dependency>
             <groupId>com.github.stuxuhai</groupId>
@@ -29,7 +29,7 @@
         <dependency>
             <groupId>cn.hutool</groupId>
             <artifactId>hutool-all</artifactId>
-            <version>4.0.7</version>
+            <version>4.0.8</version>
         </dependency>
         <!-- https://mvnrepository.com/artifact/mysql/mysql-connector-java -->
         <dependency>
